@@ -1,19 +1,19 @@
 const navLinks = [
   {
-    name: "Work",
-    link: "#work",
+    nome: "Trabalho",
+    link: "#trabalho",
   },
   {
-    name: "Experience",
-    link: "#experience",
+    nome: "Experiencia",
+    link: "#experiencia",
   },
   {
-    name: "Skills",
-    link: "#skills",
+    nome: "Habilidades",
+    link: "#habilidades",
   },
   {
-    name: "Testimonials",
-    link: "#testimonials",
+    nome: "Depoimentos",
+    link: "#depoimentos",
   },
 ];
 
@@ -249,23 +249,23 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
+    nome: "insta",
     url: "https://www.instagram.com/",
     imgPath: "/images/insta.png",
   },
   {
-    name: "fb",
-    url: "https://www.facebook.com/",
+    nome: "fb",
+    url: "https://www.facebook.com/eliseu.albano.9",
     imgPath: "/images/fb.png",
   },
   {
-    name: "x",
-    url: "https://www.x.com/",
-    imgPath: "/images/x.png",
+    nome: "github",
+    url: "https://github.com/eliseucostaalbano",
+    imgPath: "/images/github.png",
   },
   {
-    name: "linkedin",
-    url: "https://www.linkedin.com/",
+    nome: "linkedin",
+    url: "http://linkedin.com/in/eliseu-costa-a84255314/",
     imgPath: "/images/linkedin.png",
   },
 ];

@@ -1,6 +1,6 @@
 const TechStack = () => {
   return (
-    <div>TechStack</div>
+    <div id="habilidades">TechStack</div>
   )
 }
 
