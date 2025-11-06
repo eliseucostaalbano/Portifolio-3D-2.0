@@ -1,5 +1,9 @@
 const navLinks = [
   {
+    nome: "Início",
+    link: "#hero",
+  },
+  {
     nome: "Trabalho",
     link: "#trabalho",
   },
@@ -15,6 +19,14 @@ const navLinks = [
     nome: "Depoimentos",
     link: "#depoimentos",
   },
+  {
+    nome: "Contato",
+    link: "#contato",
+  },
+  {
+    nome: "Estatísticas",
+    link: "#counter",
+  }
 ];
 
 const palavras = [
@@ -28,10 +40,10 @@ const palavras = [
   { text: "Código", imgPath: "/images/code.svg" },
 ];
 
-const counterItems = [
-  { value: 15, suffix: "+", label: "Anos de Experiência" },
-  { value: 200, suffix: "+", label: "Clientes Satisfeitos" },
-  { value: 108, suffix: "+", label: "Projetos Concluídos" },
+const contadorItems = [
+  { value: 4, suffix: "+", label: "Anos de Experiência" },
+  { value: 100, suffix: "+", label: "Clientes Satisfeitos" },
+  { value: 20, suffix: "+", label: "Projetos Concluídos" },
   { value: 90, suffix: "%", label: "Taxa de Retenção de Clientes" },
 ];
 
@@ -274,7 +286,7 @@ export {
   palavras,
   habilidades,
   logoIconsList,
-  counterItems,
+  contadorItems,
   expCards,
   expLogos,
   testimonials,
