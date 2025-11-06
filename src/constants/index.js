@@ -71,21 +71,21 @@ const logoIconsList = [
   },
 ];
 
-const abilities = [
+const habilidades = [
   {
     imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    titulo: "Foco na Qualidade",
+    desc: "Entregando resultados de alta qualidade enquanto mantemos atenção a cada detalhe.",
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    titulo: "Comunicação Confiável",
+    desc: "Mantendo você atualizado a cada passo para garantir transparência e clareza.",
   },
   {
     imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    titulo: "Entrega Pontual",
+    desc: "Garantindo que os projetos sejam concluídos dentro do prazo, com qualidade e atenção aos detalhes.",
   },
 ];
 
@@ -272,7 +272,7 @@ const socialImgs = [
 
 export {
   palavras,
-  abilities,
+  habilidades,
   logoIconsList,
   counterItems,
   expCards,
