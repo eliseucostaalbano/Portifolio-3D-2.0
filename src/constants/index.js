@@ -4,6 +4,10 @@ const navLinks = [
     link: "#hero",
   },
   {
+    nome: "Estatísticas",
+    link: "#counter",
+  },
+  {
     nome: "Trabalho",
     link: "#trabalho",
   },
@@ -22,10 +26,6 @@ const navLinks = [
   {
     nome: "Contato",
     link: "#contato",
-  },
-  {
-    nome: "Estatísticas",
-    link: "#counter",
   }
 ];
 
