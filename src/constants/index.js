@@ -160,42 +160,45 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      "Eliseu Trouxe criatividade e experiência técnica para a equipe, melhorando significativamente nosso desempenho frontend. Seu trabalho tem sido inestimável na entrega de experiências mais rápidas.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
-    responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+    titulo: "Desenvolvedor Frontend",
+    data: "Janeiro 2023 - Atualmente",
+    responsabilidades: [
+      "Desenvolveu e manteve recursos voltados para o usuário no site da Hostinger.",
+      "Colaborou de perto com designers de UI/UX para garantir experiências de usuário perfeitas.",
+      "Otimizou aplicações web para máxima velocidade e escalabilidade.",
     ],
+    nota: 8,
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      "As contribuições de Eliseu para as aplicações web da Docker foram excepcionais. Ele aborda os desafios com uma mentalidade voltada para a solução de problemas.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
-    responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+    titulo: "Desenvolvedor Full Stack",
+    data: "Junho 2020 - Dezembro 2023",
+    responsabilidades: [
+      "Liderou o desenvolvimento das aplicações web da Docker, com foco em escalabilidade.",
+      "Trabalhou com engenheiros de backend para integrar APIs perfeitamente com o frontend.",
+      "Contribuiu para projetos de código aberto que foram utilizados no ecossistema Docker.",
     ],
+    nota: 9,
   },
   {
     review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      "O Trabalho de Eliseu no aplicativo móvel da Appwrite trouxe um alto nível de qualidade e eficiência. Ele entregou soluções que aprimoraram nossa experiência móvel e atenderam às metas do produto.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
-    responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+    titulo: "Desenvolvedor React Nativo",
+    data: "Março 2019 - Maio 2020",
+    responsabilidades: [
+      "Desenvolveu aplicativos móveis multiplataforma usando React Native, integrando com os serviços de backend da Appwrite.",
+      "Melhorou o desempenho do aplicativo e a experiência do usuário por meio de otimização de código e testes.",
+      "Coordenou com a equipe de produto para implementar recursos com base no feedback.",
     ],
+    nota: 10,
   },
 ];
 
