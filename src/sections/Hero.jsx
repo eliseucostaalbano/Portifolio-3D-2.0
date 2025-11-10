@@ -1,6 +1,6 @@
 import { palavras } from "../constants"
 import Botão from "../components/Botão"
-import HeroExperience from "../components/HeroModels/HeroExperience"
+import HeroExperience from "../components/models//HeroModels/HeroExperience"
 import ContadorAnimado from "../components/ContadorAnimado"
 
 import { useGSAP } from "@gsap/react";
