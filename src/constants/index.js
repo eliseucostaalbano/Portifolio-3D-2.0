@@ -103,57 +103,57 @@ const habilidades = [
 
 const techStackImgs = [
   {
-    name: "React Developer",
+    nome: "React Developer",
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "Python Developer",
+    nome: "Python Developer",
     imgPath: "/images/logos/python.svg",
   },
   {
-    name: "Backend Developer",
+    nome: "Backend Developer",
     imgPath: "/images/logos/node.png",
   },
   {
-    name: "Interactive Developer",
+    nome: "Interactive Developer",
     imgPath: "/images/logos/three.png",
   },
   {
-    name: "Project Manager",
+    nome: "Project Manager",
     imgPath: "/images/logos/git.svg",
   },
 ];
 
 const techStackIcons = [
   {
-    name: "React Developer",
+    nome: "Desenvolvedor React",
     modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
+    escala: 1,
+    rotacao: [0, 0, 0],
   },
   {
-    name: "Unity Developer",
+    nome: "Desenvolvedor Unity",
     modelPath: "/models/unity.glb",
-    scale: 0.8,
-    rotation: [0, 0, 0],
+    escala: 0.8,
+    rotacao: [ 0,  0, 0],
   },
   {
-    name: "Backend Developer",
+    nome: "Desenvolvedor Backend",
     modelPath: "/models/node-transformed.glb",
-    scale: 5,
-    rotation: [0, -Math.PI / 2, 0],
+    escala: 5,
+    rotacao: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Interactive Developer",
+    nome: "Desenvolvedor Interativo",
     modelPath: "/models/three.js-transformed.glb",
-    scale: 0.05,
-    rotation: [0, 0, 0],
+    escala: 0.05,
+    rotacao: [0, 0, 0],
   },
   {
-    name: "Project Manager",
+    nome: "Gerente de Projetos",
     modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
+    escala: 0.05,
+    rotacao: [0, -Math.PI / 4, 0],
   },
 ];
 
